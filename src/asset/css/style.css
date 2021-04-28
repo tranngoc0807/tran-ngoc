@@ -1,0 +1,20 @@
+.bg{
+    background-color: #754ffe!important;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;;
+}
+.rounded-top{
+    border-top-left-radius: .5rem!important;
+    border-top-right-radius: .5rem!important;
+}
+.card-img-top  {
+     flex-shrink: 0;
+    width: 100%;
+}
+img, svg {
+    vertical-align: middle;
+}
+img {
+    border-style: none;
+}
